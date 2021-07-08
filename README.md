@@ -1,14 +1,12 @@
-# this is my website
+My portfolio
+-----------------------
 
-___
+### code
+- [New Taiko Charter](https://github.com/Dlol/Taiko-Charter-New)
+- [dwm build](https://github.com/Dlol/dlol-dmenu) + [dmenu build](https://github.com/Dlol/dlol-dmenu) (though i use rofi now)
+- [PDOME](https://github.com/Dlol/PDOME) purr data open source modular environment, totally something i work on
 
-I hope you like it
 
-### here are the links you are looking for 
-
-[PDOME](https://github.com/Dlol/PDOME)
-
-[Taiko Charting Utility](https://dlol.github.io/Taiko-Charting-Tool/)
-```diff
-- UPDATE: Now an electron app! (Still works in browsers)
-```
+### logos
+![Logo for Leotris](leotris_FULL.png)
+![Logo for Eliptic Echo](echo.png)
